@@ -1,5 +1,4 @@
 import {
-  IonAlert,
   IonCard,
   IonCardContent,
   IonCardHeader,
@@ -31,7 +30,7 @@ const Tab1: React.FC = () => {
           <IonCardHeader>
             <IonCardTitle>Hello live update</IonCardTitle>
           </IonCardHeader>
-          <IonCardContent>Content</IonCardContent>
+          <IonCardContent></IonCardContent>
         </IonCard>
       </IonContent>
     </IonPage>
