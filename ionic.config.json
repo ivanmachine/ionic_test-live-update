@@ -1,0 +1,7 @@
+{
+  "name": "live-update-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
